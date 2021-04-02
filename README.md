@@ -1,6 +1,6 @@
 ## Croc.Photos
 
-Welcome to the largest repository of royalty free, open source photos of Mugger crocodiles (Crocodylus Palustris). This growing collection of photos is courtesy of the [Mahim Pandhi Wildlife Foundation](https://pandhi.org) and licensed under the very permissive [CC-0 license](LICENSE).
+Welcome to the largest repository of royalty free, open source photos of [Mugger crocodiles (Crocodylus Palustris)](https://en.wikipedia.org/wiki/Mugger_crocodile). This growing collection of photos is courtesy of the [Mahim Pandhi Wildlife Foundation](https://pandhi.org) and licensed under the very permissive [CC-0 license](LICENSE).
 
 We hope these photos will be helpful for students, researchers, and all crocodile lovers.
 
